@@ -36,6 +36,14 @@ I'm a software engineer with a specialization in building web based applications
 
 - AI/ML Model Development.
 
+## 🧑‍🚒 Active Github Profile/s
+
+<div style="line-height: 1.15">
+    <b>🚀 [SajawalAly](https://github.com/SajawalAly)</b>
+    <p>Company Provided</p>
+</div>
+
+
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
   <a href="mailto:work.sajawal@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
