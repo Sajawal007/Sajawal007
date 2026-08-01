@@ -28,7 +28,7 @@
 ## 📘 Education
 
 <div style="line-height: 1.15">
-    <b>🎓 London Metropolitan University</b> — <em>Jan 2025 – May 2026</em>
+    <b>🎓 London Metropolitan University</b> — <em>Jan 2025 – July 2026</em>
     <p>MSc Cybersecurity · Ethical Hacking, Cyber Forensics, Incident Response, Cloud Security</p>
 </div>
 
